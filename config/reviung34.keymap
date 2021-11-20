@@ -166,7 +166,7 @@
     &kp Q       &kp W      &kp E     &kp R              &kp T             &kp Y     &kp U              &kp I        &kp O      &kp P
     &hm LGUI A  &hm LALT S  &hm LCTRL D  &hl NUM_MODS F &kp G             &kp H     &hl NUM_MODS J     &hm LCTRL K  &hm LALT L &mt SQT DQT
     &kp Z       &kp X      &kp C     &kp V              &kp B             &kp N     &kp M              &mt LT COMMA &mt GT DOT &mt QMARK FSLH
-                           &lt BT_CTRL BSPC  &mt LSHIFT ESC &kp ENTER &tabspace
+                          &lt BT_CTRL BSPC    &mt LSHIFT ESC    &tabspace    &lt BT_CTRL ENTER
                         >;
                 };
 
